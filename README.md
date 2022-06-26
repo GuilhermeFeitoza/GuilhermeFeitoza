@@ -34,6 +34,5 @@
 
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/GuilhermeFeitoza/GuilhermeFeitoza/blob/output/snake.svg" alt="Snake animation" />
 
 ###
